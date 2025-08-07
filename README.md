@@ -1,8 +1,11 @@
 EdgyLearn
+
 Descripción del Proyecto
+
 EdgyLearn es una plataforma de aprendizaje digital moderna y dinámica diseñada para revolucionar la educación en línea. El proyecto ofrece una experiencia de aprendizaje sin límites con cursos interactivos, una comunidad activa de estudiantes y la posibilidad de obtener certificaciones reconocidas. Utiliza tecnología de vanguardia y una interfaz de usuario atractiva y fluida para guiar a los usuarios en su camino de crecimiento profesional.
 
 Características Principales
+
 Cursos Interactivos: Accede a una amplia biblioteca de cursos creados por expertos, con contenido multimedia y ejercicios prácticos.
 
 Comunidad de Aprendizaje: Conecta y colabora con otros estudiantes e instructores en una comunidad activa y de apoyo.
@@ -14,6 +17,7 @@ Planes de Suscripción: Elige entre planes Básico (gratuito), Premium y Empresa
 Diseño Responsivo: Disfruta de una experiencia de usuario consistente y optimizada en cualquier dispositivo, desde ordenadores de escritorio hasta dispositivos móviles.
 
 Tecnologías Utilizadas
+
 Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 
 React: Una biblioteca de JavaScript para construir interfaces de usuario.
@@ -33,6 +37,7 @@ Prerrequisitos
 Asegúrate de tener instalado Node.js y npm (o Yarn).
 
 Instalación
+
 Clona el repositorio:
 
 git clone https://github.com/jannb25/edgylearn.git
