@@ -35,7 +35,7 @@ Asegúrate de tener instalado Node.js y npm (o Yarn).
 Instalación
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/edgylearn.git
+git clone https://github.com/jannb25/edgylearn.git
 
 Navega al directorio del proyecto:
 
